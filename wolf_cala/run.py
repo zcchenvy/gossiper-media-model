@@ -103,7 +103,7 @@ def main(Times, num_media, k, p):
 if __name__ == '__main__':
 
     NetworkName = "全连接"
-    Path = "D:/fangdina/总结/代码2.0/wolf_cala/"
+    Path = "../wolf_cala/"
     config.num_media = 0
     for i in range(5):
         main(i, 0, 199, 0)
